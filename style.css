@@ -1,4 +1,4 @@
-//* --- Style général --- */
+
 body {
   margin: 0;
   font-family: "Poppins", Arial, sans-serif;
@@ -6,7 +6,7 @@ body {
   background: #f9fafb;
 }
 
-/* --- En-tête --- */
+
 header {
   display: flex;
   align-items: center;
@@ -68,7 +68,6 @@ nav a:hover {
   background: #4e6f9c;
 }
 
-/* --- Section principale avec image de convivialité --- */
 main {
   text-align: center;
   padding: 80px 20px;
@@ -121,7 +120,7 @@ main p {
   transform: scale(1.05);
 }
 
-/* --- Pied de page --- */
+
 footer {
   text-align: center;
   background-color: #6997bf;
@@ -136,7 +135,7 @@ footer img {
   margin-right: 8px;
 }
 
-/* --- Responsive --- */
+
 @media (max-width: 768px) {
   header {
     flex-direction: column;
